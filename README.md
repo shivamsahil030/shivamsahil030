@@ -1,8 +1,10 @@
-# Hi 👋, I'm Shivam Sahil
+# Hi 👋, I'm Shivam Kumar
 
 🚀 Frontend Developer | Learning MERN Stack and Building Projects in Public
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Frontend+Developer;Learning+MERN+Stack;Building+Real-World+Projects;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Learning+MERN+Stack;Building+Projects;Always+Learning+New+Things" />
+</p>
 
 ---
 
@@ -35,19 +37,19 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamsahil030\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamsahil030\&show_icons=true\&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shivamsahil030)
+![GitHub Streak](https://streak-stats.demolab.com?user=shivamsahil030\&theme=tokyonight)
 
 ---
 
 ## 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsahil030\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsahil030\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -84,7 +86,8 @@ Frontend clone inspired by Amazon's shopping experience.
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/shivamsahil030
-* LinkedIn: Add Your LinkedIn Link Here
+* LinkedIn: https://www.linkedin.com/in/shivam-kumar-9a0967380
+* Twitter : https://x.com/shivamkumar509?s=11
 
 ---
 
