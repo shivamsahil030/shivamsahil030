@@ -1,79 +1,67 @@
+<p align="center">
+  <img src="banner.png" alt="Shivam Kumar Banner" width="100%" />
+</p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://myportfolio-shivamm.netlify.app/)
+![Profile Views](https://komarev.com/ghpvc/?username=shivamsahil030&label=Profile%20Views&color=0e75b6&style=flat)
+
 # Hi 👋, I'm Shivam Kumar
 
-🚀 Frontend Developer | Learning MERN Stack and Building Projects in Public
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Learning+MERN+Stack;Building+Projects;Always+Learning+New+Things" />
-</p>
+🚀 Frontend Developer | Learning MERN Stack | Building Projects in Public
 
 ---
 
 ## 💻 About Me
 
-* 🌱 Currently learning **MERN Stack**
-* 🚀 Building real-world web development projects
-* 📚 Sharing my coding journey publicly
-* 🎯 Goal: Become a Full-Stack Developer
-* ⚡ I believe the best way to learn is by building projects
+- 🌱 Currently learning MERN Stack
+- 🚀 Building real-world web development projects
+- 📚 Sharing my coding journey publicly
+- 🎯 Goal: Become a Full-Stack Developer
+- ⚡ Learning by building projects and solving real-world problems
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
+- HTML5
+- CSS3
+- JavaScript
 
-* HTML5
-* CSS3
-* JavaScript
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Netlify
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamsahil030\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shivamsahil030\&theme=tokyonight)
-
----
-
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsahil030\&layout=compact\&theme=tokyonight)
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Netlify
+- Figma
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌐 Portfolio Website
-
 Personal portfolio showcasing my frontend development journey, skills, and projects.
 
 ### 👕 Laundry-Wallaah
-
-Responsive laundry service website with modern UI.
+Responsive laundry service website with a modern user interface.
 
 ### 🍝 Bella Vista Restaurant
-
 Restaurant landing page with responsive design and attractive layout.
 
 ### 🛒 Flipkart Clone UI
-
 Frontend clone inspired by Flipkart's user interface.
 
 ### 🛍️ Amazon Clone UI
-
 Frontend clone inspired by Amazon's shopping experience.
+
+---
+
+## 🎯 Current Focus
+
+- Advanced JavaScript
+- React.js
+- MERN Stack Development
+- Building Real-World Projects
 
 ---
 
@@ -85,12 +73,14 @@ Frontend clone inspired by Amazon's shopping experience.
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/shivamsahil030
-* LinkedIn: https://www.linkedin.com/in/shivam-kumar-9a0967380
-* Twitter : https://x.com/shivamkumar509?s=11
+- GitHub: https://github.com/shivamsahil030
+- LinkedIn: https://www.linkedin.com/in/shivam-kumar-9a0967380
+- X (Twitter): https://x.com/shivamkumar509
 
 ---
 
 ## ⚡ Fun Fact
 
-Every project in my GitHub profile represents a step in my learning journey. 🚀
+Every project on my GitHub profile represents a step in my learning journey.
+
+> Consistency beats perfection. 🚀
