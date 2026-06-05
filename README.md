@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shivam Sahil
+# Hi 👋, I'm Shivam Kumar
 
 🚀 Frontend Developer | Learning Full-Stack Development
 
