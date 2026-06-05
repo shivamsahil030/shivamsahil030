@@ -27,7 +27,7 @@
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/shivamsahil030
-* LinkedIn:www.linkedin.com/in/shivamkumar509
+* LinkedIn: www.linkedin.com/in/shivamkumar509
 * twitter : https://x.com/shivamkumar509?s=11
 
 ## ⚡ Fun Fact
