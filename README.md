@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Shivam Sahil
 
-<!--
-**shivamsahil030/shivamsahil030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | Learning Full-Stack Development
 
-Here are some ideas to get you started:
+## 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Currently learning JavaScript and React
+* 🎯 Building real-world frontend projects
+* 📚 Sharing my coding journey online
+* ⚡ Passionate about web development
+
+## 🛠️ Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript
+* Git & GitHub
+
+## 🚀 Featured Projects
+
+* Portfolio Website
+* Laundry-Wallaah UI
+* Bella Vista Restaurant
+* Amazon Clone UI
+* Flipkart Clone UI
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/shivamsahil030
+* LinkedIn:www.linkedin.com/in/shivamkumar509
+* twitter : https://x.com/shivamkumar509?s=11
+
+## ⚡ Fun Fact
+
+I learn best by building projects and sharing my progress publicly.
